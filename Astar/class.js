@@ -5,7 +5,7 @@ function spot(i,j){
     this.g = 0;
     this.h = 0;
     this.wall = false;
-    if(random(1)<0.4){
+    if(random(1)<0.5){
         this.wall = true;
     }
     this.neighbours = [];
