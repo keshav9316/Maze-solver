@@ -1,6 +1,6 @@
 let w,h;
-var cols=20;
-var rows = 20;
+var cols=8;
+var rows = 8;
 var openSet = [];
 var closedSet = [];
 var start,end;
